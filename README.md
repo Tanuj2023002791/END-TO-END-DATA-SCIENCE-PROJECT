@@ -60,6 +60,10 @@ https://4ab52e12-3b5c-44cb-b1d7-01831b720de8-00-l7a2z6d96aau.sisko.replit.dev/
 ![Image](https://github.com/user-attachments/assets/5be1c489-a810-42bd-9850-c6bd824eb0f2)
 
 2. After the training in online one:
+![Image](https://github.com/user-attachments/assets/8d5464d2-ae8a-4353-9230-7bf301584e4f)
+
+3. After trying in the online api testing tool:
+
 
 
 
