@@ -12,9 +12,11 @@
 
 *MENTOR*: NEELA SANTHOSH
 
-##🎧 End-to-End Music Review Sentiment Analysis Project — Explained Step by Step
+## DESCRIPTION
 
-##🎯 Objective:
+## 🎧 End-to-End Music Review Sentiment Analysis Project — Explained Step by Step
+
+## 🎯 Objective:
 To build, train, and deploy a machine learning model that predicts whether a music review is positive or negative. This project demonstrates the complete Data Science lifecycle — from preprocessing raw text to deploying a REST API using Flask.
 
 ✅ Step 1: Data Collection & Preparation
